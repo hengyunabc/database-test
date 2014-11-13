@@ -40,6 +40,7 @@
 
 由其它的进程，把消息队列表里的消息拉取出来，转到metaq/kafka里。
 
+![](image/design.png)
 
 
 ## 去哪儿网的QMQ消息系统
@@ -47,7 +48,7 @@
 http://www.infoq.com/cn/presentations/qunar-java-development-environment 
 
 pdf:
-![](pdf/去哪儿网的Java开发生态环境.pdf)
+http://git.inzwc.com/zhixuan.chen/database-test/blob/master/pdf/qconbeijing-20140427am-sunli.pdf
 
 ![](image/qmq.png)
 
