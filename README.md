@@ -1,5 +1,6 @@
 
 
+
 ## 测试
 测试以mysql里的一张来保存消息队列。
 
@@ -38,4 +39,16 @@
 在事务操作过程中，把重要的信息同时插入一个记录到消息队列表里。
 
 由其它的进程，把消息队列表里的消息拉取出来，转到metaq/kafka里。
+
+
+
+## 去哪儿网的QMQ消息系统
+
+http://www.infoq.com/cn/presentations/qunar-java-development-environment 
+
+pdf:
+![](pdf/去哪儿网的Java开发生态环境.pdf)
+
+![](image/qmq.png)
+
 
